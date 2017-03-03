@@ -1,5 +1,12 @@
 # ES6-Filtering-And-Mapping
 
+//Bernardo D. Villajuan
+//CSC313: ES6
+//February 28, 2017
+//Code utilized from https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter
+//Code utilized from https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map
+
+
 // jshint esnext: true
 
 const array = [40, 45, 37, 39, 40, 38, 37, 48, 32, 47, 43, 41, 38, 31, 48, 36, 30, 39, 36, 30, 48, 42, 45, 36, 44];
